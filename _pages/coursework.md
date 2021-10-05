@@ -5,7 +5,7 @@ permalink: /Coursework/
 image: 
 ---
 
-<h1>M.S. IT & Data Science</h1>
+<h1>Master's</h1>
 + SQL Database Design
 + Statistics for Data Science (R)
 + Data Mining Methods & Applications (R, SPSS)
@@ -17,7 +17,9 @@ image:
 
 <h1>Bachelor's</h1>
 + Probability and Statistics
++ International Economics
++ Macroeconomic Theory, Intermediate
++ Microeconomic Theory, Intermediate
 + Technology and Values
 + Competitive Strategy
-+ Intermediate Microeconomic Theory
-+ Intermediate Macroeconomic Theory 
++ Corporate Finance
