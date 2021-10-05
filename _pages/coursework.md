@@ -2,7 +2,7 @@
 layout: page
 title: Coursework
 permalink: /Coursework/
-image: graph1.jpeg
+image: graph1.jpg
 ---
 
 <h1>M.S. IT & Data Science</h1>
