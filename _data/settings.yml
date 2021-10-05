@@ -9,7 +9,7 @@ description: "Richelle's Data Analysis Portfolio"
 # Author Settings
 author:
   name: Richelle Parra
-  image: bio-photo.jpg
+  image: ![](images/bio-photo.jpg)
   say-hello: Hello, I’m <strong>Richelle Parra</strong>
   bio: Designs, talks, and writes about <strong>data mining</strong>, <strong>data visualization</strong>, <strong>repoting business insights</strong>. Loves <a href="#">music</a> & running.
 
