@@ -6,7 +6,7 @@ image: about-photo1.jpg
 ---
 <h1>Intro</h1>
 <hr>
-Hi, my name is Richelle Parra. I am based in the San Francisco Bay Area and expect a graduation date of May 2022 for an MSIT degree in Data Science. Hover over to view some of my <a href="https://rparra09.github.io/projects/">projects</a>.
+Hi, my name is Richelle Parra. I am based in the San Francisco Bay Area and expect a graduation date of May 2022 for an MSIT degree in Data Science. Hover over to view some of my /Projects/.
 <hr>
 <h1>Professional Life</h1>
 <hr>
