@@ -1,4 +1,4 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Site wide configuration
@@ -10,7 +10,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Richelle Parra
-  avatar: bio-photo.JPG
+  avatar: ![](images/bio-photo.jpg)
   bio: "Portfolio"
   email: richelle.parra@berkeley.edu
   # Do not include the @ symbol in your Twitter username
