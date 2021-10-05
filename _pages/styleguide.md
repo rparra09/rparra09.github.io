@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Style Guide
-permalink: /styleguide/
+title: Projects
+permalink: /projects/
 image: 08.jpg
 ---
 
