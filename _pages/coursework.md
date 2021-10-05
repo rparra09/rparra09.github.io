@@ -5,9 +5,19 @@ permalink: /Coursework/
 image: #
 ---
 
+<h1>M.S. IT & Data Science</h1>
 + SQL Database Design
-+ Data Transformation
-+ Data Warehouse & Dimensional Modeling
-+ Statistics for Data Science (RStudio)
-+ Data Mining Methods & Applications
-+ Advanced Regression Analysis
++ Statistics for Data Science (R)
++ Data Mining Methods & Applications (R, SPSS)
++ Advanced Regression Analysis (SPSS)
++ Principles of Business Intelligence
++ Data Transformation (PosgreSQL, R)
++ Data Warehousing & Dimensional Modeling
++ IT Project Management
+
+<h1>Bachelor's</h1>
++ Probability and Statistics
++ Technology and Values
++ Competitive Strategy
++ Intermediate Microeconomic Theory
++ Intermediate Macroeconomic Theory 
