@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: bio-photo2.jpg
+image: <img src="images/bio-photo2.jpg" alt="hi" class="inline"/>
 ---
 <h1>Intro</h1>
 <hr>
