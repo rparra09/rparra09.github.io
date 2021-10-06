@@ -2,7 +2,7 @@
 layout: page
 title: Coursework
 permalink: /Coursework/
-image: 
+image: db-photo.JPG
 ---
 
 <h1>Master's</h1>
