@@ -20,6 +20,6 @@ image:
 + International Economics
 + Macroeconomic Theory, Intermediate
 + Microeconomic Theory, Intermediate
++ Corporate Finance
 + Technology and Values
 + Competitive Strategy
-+ Corporate Finance
