@@ -5,18 +5,14 @@ permalink: /projects/
 image: 08.jpg
 ---
 
-PAGE UNDER CONSTRUCTION
+
 
 ***
 
 ### Headings by default:
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+# PAGE UNDER CONSTRUCTION
+
 
 {% highlight markdown %}
 ## Heading first level
