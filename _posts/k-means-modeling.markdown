@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  K-Means Cluster Modeling - Diney Films
+title:  K-Means Cluster Modeling for Disney Films
 date:   2021-08-22 15:01:35 +0300
 image:  02.jpg
 tags:   Resources
