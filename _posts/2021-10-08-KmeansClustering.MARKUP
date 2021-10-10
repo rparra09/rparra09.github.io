@@ -2,7 +2,7 @@
 layout: post
 title:  K-Means Cluster Modeling for Disney Films
 date:   2021-08-22 15:01:35 +0300
-image:  02.jpg
+image:  k-means-photo.jpg
 tags:   Resources
 ---
 This project uses a K-Means clustering method to find unique groupings of Walt Disney films (not Disney+ releases, only those with Box Office revenue) by identifying patterns and trends beyond simply sorting. I use Python for its ease-of-use, plotting capabilities, and wide-array of K-Means methods.  
