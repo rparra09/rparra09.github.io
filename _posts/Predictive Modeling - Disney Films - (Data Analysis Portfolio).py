@@ -1,3 +1,11 @@
+---
+layout: post
+title:  K-Means Clustering - Diney Films
+date:   2021-10-08 12:01:35 +0300
+image:  02.jpg
+tags:   Resources
+---
+
 # -*- coding: utf-8 -*-
 
 # -- Sheet --
