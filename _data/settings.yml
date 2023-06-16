@@ -1,26 +1,23 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: RP
+logo: icon-1.jpeg # You can add own logo.
+description: "Richelle Parra's Data Science Portfolio & Resume Site"
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: Richelle Parra
+  image: RP_Home_photo.png
+  say-hello: <strong>Hello! My name is Richelle Parra</strong>
+  bio: Welcome to my data analysis portfolio & online resume site. Scroll down to find some of my <a href="https://rparra09.github.io/#anchor-name">sample data projects</a>. I have practical experience with data science tools, including Python and SQL, and machine learning methods including data cleaning, feature selection, model training and evaluation, and data visualization. In my leisure time, I enjoy <a href="https://www.youtube.com/results?search_query=lo+fi">Lo-Fi music</a> & <a href="https://rparra09.github.io/interests/">running</a>.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+Linkedin: https://www.linkedin.com/in/richelleparra09/ # Add your Linkedin handle
+
 
 
 #-------------------------------
@@ -30,8 +27,8 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+#instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
 
 
 #-------------------------------
@@ -41,4 +38,4 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
