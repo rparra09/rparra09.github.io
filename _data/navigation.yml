@@ -1,6 +1,8 @@
-- title: about
-  url: /about/
-- title: Coursework
-  url: /Coursework/
-- title: Interests
-  url: /Interests/
+- title: "Home"
+  href: "/"
+- title: "About"
+  href: "/about/"
+- title: "Coursework"
+  href: "/Coursework/"
+- title: "Interests"
+  href: "/Interests/"
