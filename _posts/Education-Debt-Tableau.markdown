@@ -131,9 +131,3 @@ Once the connection to the spreadsheets are made, I use Tableau logical table sc
 
 <p>In my view, the <i>Average Student Debt By Median Income Scatterplot</i> is the most telling visualization. While median income ranges from $33K to $86K by state, the student debt range is much narrower $29K to $43K. This means the impact of up to $20K debt relief will be more meaningful to borrower's discretionary income in lower median income states.</p>
 </p></p></p></p>
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
