@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Visualizing Data with Tableau - Education Loan Debt"
-date:   22022-09-06T09:38:22+00:00
+date:   2022-09-06T09:38:22+00:00
 image:  Edu_loan_Tableau_Dash.jpg
 tags:   Resources
 ---
 <h1>I. Data Exploration</h1>
 
-<p>As a response to the long-term economic effects of the COVID-19 pandemic, the U.S. government announced its first ever, wide-ranging student debt relief plan.
+<p>As a response to the long-term economic effects of the COVID-19 pandemic, the U.S. government announced its first-ever, wide-ranging student debt relief plan.
 Following the first-of-its-kind announcement, an overwhelming number of conflicting narratives emerged.</p>
 
-<p>Therefore, I decided to visualize higher education debt data to interpret it for myself and attempt to uncover who is affected by this debt relief? How many people qualify? How many people will have all federal loan debt relieved?</p>
+<p>Therefore, I decided to visualize higher education debt data to interpret it for myself and attempt to uncover who is affected by this debt relief. How many people qualify? How many people will have all federal loan debt relieved?</p>
 
 <p>In this independent project, I use Tableau to visualize education debt and share my findings here.</p>
 
