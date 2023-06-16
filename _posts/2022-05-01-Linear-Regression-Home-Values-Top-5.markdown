@@ -2,7 +2,7 @@
 layout: post
 title:  Forecasting Home Values of the Top 5 Highest Population U.S. Cities
 date:   2022-05-01 13:01:35 +0300
-image:  NY-photo.jpg
+image:  NY-photo 2.jpg
 tags:   Resources
 ---
 In this project, I predict 2022 Home Values using Simple Moving Average and then create a model, train and test it, to run a Random Forest Regression prediction of 2022 Home Values <p></p>
