@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Visualizing Data with Tableau - Education Loan Debt"
-date:   2022-09-06T09:38:22+00:00
+title:  Visualizing Data with Tableau - Education Loan Debt
+date:   2022-09-06 09:38:22 +0300
 image:  Edu_loan_Tableau_Dash.jpg
 tags:   Resources
 ---
