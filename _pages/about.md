@@ -5,15 +5,20 @@ permalink: /about/
 image: Richelle_Parra_Grad_02.png
 ---
 
-I am a 2022 graduate of an M.S. Information Technology degree in Data Science and currently based in the San Francisco Bay Area. In the homepage, scroll down to find some of my published data projects.
-Professional Life
+<p>I am a 2022 graduate of an M.S. Information Technology degree in Data Science and currently based in the San Francisco Bay Area. In the homepage, scroll down to find some of my <a href="https://rparra09.github.io/#anchor-name"> published data projects</a>.</p>
 
-Work Experience
---      Manager, Data Transparency and Systems at Gilead Sciences, Inc.
---      Data Analytics Analyst at Cushman and Wakefield, PLC
---      Data Analyst at investment management firm SEIA, LLC
---      Jr. Financial Cost Analyst at Collins Aerospace (RTX) (formerly UTC Aerospace Systems)
-Graduate degree
-       M.S. in Information Technology (Data Science) at Cal State University, Fullerton
-Undergraduate degree
-       Bachelor's in Political Economy at UC Berkeley  
+<h1>Professional Life</h1>
+<hr />
+
+<p><b>Work Experience</b></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Manager, Data Transparency and Systems at <a href="https://www.gilead.com">Gilead Sciences, Inc.</a></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analytics Analyst at <a href="https://www.linkedin.com/company/cushman-&amp;-wakefield/">Cushman and Wakefield, PLC</a></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analyst at investment management firm <a href="https://www.seia.com/">SEIA, LLC</a></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Jr. Financial Cost Analyst at <a href="https://www.collinsaerospace.com/who-we-are/about-us#CollinsAerospace">Collins Aerospace (RTX) </a>(formerly UTC Aerospace Systems)</p>
+
+<p><b>Graduate degree</b></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;M.S. in Information Technology (Data Science) at <a href="https://business.fullerton.edu/Programs/Graduate">Cal State University, Fullerton</a></p>
+
+<p><b>Undergraduate degree</b></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Bachelor's in Political Economy at <a href="https://www.berkeley.edu">UC Berkeley</a></p>
+
