@@ -7,6 +7,11 @@ image: IMG_3089.JPG
 <h1>Running Events</h1>
 <hr/>
 
+<p><b>San Francisco Marathon 2023</b>
+  <br />Race Length: Half Marathon
+  <br />Race Date: Sunday, July 23, 2023
+  <br />Finish Time: TBD
+  <br /><a href="https://www.thesfmarathon.com/wp-content/uploads/2023/05/First_Half-2.pdf"><b> Race Course</b></a></p>
 <p><b>UC Berkeley Information School 5K 2022</b>
   <br />Race Length: 5K
   <br />Finish Time: 31:05
