@@ -1,6 +1,7 @@
 <!-- begin footer -->
 <footer class="footer">
   <div class="container">
+    
     {% if site.data.settings.mailchimp %}
     {% include subscribe.html %}
     {% else %} {% endif %}
@@ -10,6 +11,7 @@
     {% else %} {% endif %}
 
     {% include contact-link.html %}
+    
     <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
 </div>
 </footer>
