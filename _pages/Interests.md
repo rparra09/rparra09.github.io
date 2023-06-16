@@ -2,7 +2,7 @@
 layout: page
 title: Interests
 permalink: /Interests/
-image: IMG_3087.JPG
+image: IMG_3089.JPG
 ---
 <h1>Running Events</h1>
 <hr/>
