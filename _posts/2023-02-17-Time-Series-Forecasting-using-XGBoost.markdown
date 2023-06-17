@@ -5,7 +5,7 @@ date:   2023-02-17 18:21:35 +0300
 image:  WiDS_Logo.jpg
 tags:   Resources
 ---
-The Women in Data Science (WiDS) Datathon 2023, organized by the WiDS Worldwide team at Stanford University, and Harvard University IACS focused on longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change.
+The <a href="https://www.kaggle.com/competitions/widsdatathon2023/overview">Women in Data Science (WiDS) Datathon 2023</a>, organized by the WiDS Worldwide team at Stanford University, and Harvard University IACS focused on longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change.
 
 The dataset was created in collaboration with Climate Change AI (CCAI). Participants were required to submit forecasts of temperature and precipitation for one year.
 
