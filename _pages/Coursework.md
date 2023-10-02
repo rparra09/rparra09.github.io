@@ -9,7 +9,7 @@ image:
 <ul>
   <li><a href="https://www.coursera.org/specializations/discrete-mathematics">Discrete Mathematics for Computer Science Specialization</a> - Coursera, In Progress</li>
     <ul>
-      <li><a>Mathematical Thinking in Computer Science</a> - Coursera, In Progress</li>
+      <li><a href="https://www.coursera.org/account/accomplishments/certificate/9XWQGPAR5FJK">Mathematical Thinking in Computer Science</a> - Coursera, Oct 2023</li>
     </ul>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YLB2W2QZDA5X">Mathematics for Machine Learning and Data Science Specialization</a> - DeepLearning.AI, August 2023</li>
     <ul>
