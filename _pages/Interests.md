@@ -28,8 +28,9 @@ image: IMG_3089.JPG
   <br />Race Length: 10K
   <br />Finish Time: 57:44
   <br /><a href="https://marathonphotos.live/Event/Sports%2FCPUK%2F2021%2FSan%20Francisco%20Marathon/28072"><b> Race Results</b></a></p>
-
-<h1>Favorite Quotes from Recently Read Books</h1>
+  
+<hr/>
+<h1>Favorite Quotes from Read Books</h1>
 <hr/>
 
 <p><b>The Three Body Problem by Liu Cixin</b>
@@ -48,5 +49,5 @@ image: IMG_3089.JPG
 <p><b>What My Bones Know by Stephanie Foo</b>
   <br />“Over and over, the answer is the same, isn’t it? Love, love, love. The salve and the cure. In order to become a better person, I had to do something utterly unintuitive. I had to reject the idea that punishing myself would solve the problem. I had to find the love.”
 
-<p><b>Solito, A memoir by Javier Zamora</b>
+<p><b>Solito, A Memoir by Javier Zamora</b>
   <br />“Grandpa isn't here to talk to me before falling asleep, to go out for walks and explore the town, and because of that I feel alone, lonely, solo, solito, solito de verdad.”
