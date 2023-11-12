@@ -7,16 +7,16 @@ image:
 
 <h1>Self-Directed Study</h1>
 <ul>
-
   <li><a href="https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/">Building Systems with the ChatGPT API</a> - DeepLearning.AI, In Progress</li>
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/9XWQGPAR5FJK">Mathematical Thinking in Computer Science</a> - Coursera, Oct 2023</li>
-    </ul>
+  
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YLB2W2QZDA5X">Mathematics for Machine Learning and Data Science Specialization</a> - DeepLearning.AI, August 2023</li>
     <ul>
       <li><a href="https://www.coursera.org/account/accomplishments/certificate/DY9A6B24TBAL">Probability & Statistics for Machine Learning & Data Science</a> - DeepLearning.AI, August 2023</li>
       <li><a href="https://www.coursera.org/account/accomplishments/certificate/L2W9YWCHG8L2">Calculus for Machine Learning and Data Science</a> - DeepLearning.AI, April 2023</li>
       <li><a href="https://www.coursera.org/account/accomplishments/certificate/2ARZZLXCAZBD">Linear Algebra for Machine Learning and Data Science</a> - DeepLearning.AI, March 2023</li>
     </ul>
+    
   <li><a href="https://www.codecademy.com/profiles/rparra8673809658/certificates/5cafb2d937090210d7df3652">Analyze Data with SQL</a> - Codeacademy, Jan 2023</li>
   <li><a href="https://www.codecademy.com/profiles/rparra8673809658/certificates/5cafb2d937090210d7df3652">Analyze Business Metrics with SQL</a> - Codeacademy, Dec 2022</li>
 </ul>
