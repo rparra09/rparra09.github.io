@@ -42,7 +42,16 @@ image:
   <li>International Economics</li>
   <li>Macroeconomic Theory, Intermediate</li>
   <li>Microeconomic Theory, Intermediate</li>
+  <li>Economics, Intro</li>
+  <li>Classical Theories of Political Economy</li>
+  <li>Modern Theories of Political Economy</li>
+  <li>Advanced Topics in Political Economy</li>
+  <li>History of Development and Underdevelopment</li>
+  <li>Globalization and Development</li>
   <li>Corporate Finance</li>
   <li>Technology and Values</li>
   <li>Competitive Strategy</li>
+  <li>Personal Finance</li>
+  <li>Financial Accounting, Intro</li>
+  <li>Legal Aspects of Management</li>
 </ul>
