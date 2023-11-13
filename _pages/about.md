@@ -12,7 +12,7 @@ image: grad_2022.jpg
 
 <p><b>Work Experience</b></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Manager, Data Transparency and Systems at <a href="https://www.gilead.com">Gilead Sciences, Inc.</a></p>
-<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analytics Analyst at <a href="https://www.linkedin.com/company/cushman-&amp;-wakefield/">Cushman and Wakefield, PLC</a></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analytics Analyst at <a href="https://www.linkedin.com/company/cushman-&amp;-wakefield/">LinkedIn, Corp.</a></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analyst at investment management firm <a href="https://www.seia.com/">SEIA, LLC</a></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Jr. Financial Cost Analyst at <a href="https://www.collinsaerospace.com/who-we-are/about-us#CollinsAerospace">Collins Aerospace (RTX) </a>(formerly UTC Aerospace Systems)</p>
 
