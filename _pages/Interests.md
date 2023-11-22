@@ -2,7 +2,7 @@
 layout: page
 title: Interests
 permalink: /Interests/
-image: IMG_3089.JPG
+image: RP_Berk_half_2023.jpg
 ---
 <h1>Running Events</h1>
 <hr/>
