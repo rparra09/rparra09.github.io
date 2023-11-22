@@ -6,7 +6,11 @@ image: IMG_3089.JPG
 ---
 <h1>Running Events</h1>
 <hr/>
-
+<p><b>Berkeley Half Marathon 2023</b>
+  <br />Race Length: Half Marathon
+  <br />Race Date: Sunday, Nov 19, 2023
+  <br />Finish Time: 2:05:12 (9:33 min/mile)
+  <br /><a href="https://www.athlinks.com/event/95041/results/Event/1060305/Course/2398838/Bib/1312"><b> Race Results</b></a></p>
 <p><b>San Francisco Marathon 2023</b>
   <br />Race Length: Half Marathon
   <br />Race Date: Sunday, July 23, 2023
