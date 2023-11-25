@@ -9,6 +9,7 @@ image:
 <ul>
 
   <li><a href="https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/">Building Systems with the ChatGPT API</a> - DeepLearning.AI, Nov 2023</li>
+  
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/9XWQGPAR5FJK">Mathematical Thinking in Computer Science</a> - Coursera, Oct 2023</li>
     
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YLB2W2QZDA5X">Mathematics for Machine Learning and Data Science Specialization</a> - DeepLearning.AI, August 2023</li>
