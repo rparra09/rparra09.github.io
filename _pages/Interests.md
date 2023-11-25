@@ -27,7 +27,7 @@ image: RP_Berk_half_2023.jpg
 <p><b>Berkeley Half Marathon 2022</b>
   <br />Race Length: 5K
   <br />Finish Time: 26:35
-  <br /><a href="https://www.runraceresults.com/Secure/individual-results.cfm?theRace=1&amp;theEvent=RCTQ2021&amp;firstName=&amp;lastName=&amp;bibNumber=11380"><b> Race Results</b></a></p>
+  <br /><a href="https://www.athlinks.com/event/1403/results/Event/1020821/Course/2266351/Bib/29037"><b> Race Results</b></a></p>
 <p><b>San Francisco Marathon 2021</b>
   <br />Race Length: 10K
   <br />Finish Time: 57:44
