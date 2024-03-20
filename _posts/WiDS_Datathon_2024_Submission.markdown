@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Machine Learning Predictions for Cancer Diagnosis
-date:   2024-04-19 
+date:   2024-04-19 18:21:35 +0300
 image:  WiDS_2024.png
 tags:   Resources
 ---
