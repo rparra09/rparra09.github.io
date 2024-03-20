@@ -14,4 +14,3 @@ View the process in its entirety in datalore below:
 <p></p>
 <div class="container">
   <iframe class="responsive-iframe" src="https://datalore.jetbrains.com/notebook/qfeUwr1oIwGyhdv6PEt4Qs/ro9q0uH2yeA1QYScpn2e6C" width="800" height="700"></iframe>
-</div>
