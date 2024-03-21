@@ -13,4 +13,4 @@ The primary objective is to determine if the likelihood of a patient's diagnosis
 View the process in its entirety in datalore below:
 <p></p>
 <div class="container">
-  <iframe class="responsive-iframe" src="https://datalore.jetbrains.com/report/static/qfeUwr1oIwGyhdv6PEt4Qs/WqbhtIHqVjEuEkKqZkfN45" width="800" height="700"></iframe>
+  <iframe class="responsive-iframe" src="https://datalore.jetbrains.com/report/static/qfeUwr1oIwGyhdv6PEt4Qs/uz7sfawBSWyrWAqdgb7ldx" width="800" height="700"></iframe>
