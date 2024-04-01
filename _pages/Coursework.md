@@ -12,7 +12,7 @@ image:
   
   <li><a href="https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/">Building Generative AI Applications with Gradio</a> - DeepLearning.AI, Nov 2023</li>
   
-  <li><a href="https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/">Building Systems with the ChatGPT API</a> - DeepLearning.AI, Nov 2023</li>
+  <li><a href="https://learn.deeplearning.ai/accomplishments/3b6aff03-1f95-47ed-941f-c2b9611d9ac9">Building Systems with the ChatGPT API</a> - DeepLearning.AI, Nov 2023</li>
   
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/9XWQGPAR5FJK">Mathematical Thinking in Computer Science</a> - Coursera, Oct 2023</li>
     
