@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Artificial Intelligence Transparency: Building Trust into AI 
-date:   2024-04-26 07:21:35 +0300
+title:  Artificial Intelligence Transparency - Building Trust into AI 
+date:   2024-04-26 07:21:35
 image:  AI_Mind.jpg
 tags:   Resources
 ---
