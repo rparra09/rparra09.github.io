@@ -13,4 +13,4 @@ This framework is a great for those navigating the evolving landscape of AI impl
 Here is the LinkedIn article version: 
 <p></p>
 <div class="container">
-  <iframe class="responsive-iframe" src="https://www.linkedin.com/pulse/artificial-intelligence-transparency-building-trust-ai-richelle-parra-jzr3c/" width="800" height="700"></iframe>
+  <iframe class="responsive-iframe" src="https://www.linkedin.com/pulse/artificial-intelligence-transparency-building-trust-ai-richelle-parra-jzr3c/?trackingId=yDyhTMYbRtO4WEjwgUBGZQ%3D%3D" width="800" height="700"></iframe>
