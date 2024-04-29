@@ -10,5 +10,5 @@ While learning technical details of AI Model deployment and researching transpar
 <p></p>
 This framework is a great for those navigating the evolving landscape of AI implementation.
 <p></p>
-Here is the LinkedIn article version: <li><a href="https://www.linkedin.com/pulse/artificial-intelligence-transparency-building-trust-ai-richelle-parra-jzr3c/">Artificial Intelligence Transparency - Building Trust into AI projects</a></li>
+Click the following link to view the published article: <a href="https://www.linkedin.com/pulse/artificial-intelligence-transparency-building-trust-ai-richelle-parra-jzr3c/">Artificial Intelligence Transparency - Building Trust into AI projects</a>
 <p></p>
