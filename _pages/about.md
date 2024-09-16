@@ -26,11 +26,12 @@ image: grad_2022.jpg
 <h1>Certifications</h1>
 <hr />
 
-  <li><a href="https://www.coursera.org/professional-certificates/data-engineering">DeepLearning.AI Data Engineering Professional Certificate</a> - DeepLearning.AI, In Progress, Sept 2024</li>
   <li><a 
-<li><a href="https://codeinplace.stanford.edu/cip4/certificate/k8k0kn">Stanford Code in Place - CS106A Python Programming</a> - Stanford University, June 2024</li>
+href="https://www.coursera.org/professional-certificates/data-engineering">DeepLearning.AI Data Engineering Professional Certificate</a> - DeepLearning.AI, In Progress, Sept 2024</li>
   <li><a 
-<li><a href="https://credentials.databricks.com/762fc906-0f3c-4d07-a3dc-6e9b4b74109b">Databricks Lakehouse Fundamentals - Academy Accreditation</a> - Databricks Academy, May 2024</li>
+href="https://codeinplace.stanford.edu/cip4/certificate/k8k0kn">Stanford Code in Place - CS106A Python Programming</a> - Stanford University, June 2024</li>
+  <li><a 
+href="https://credentials.databricks.com/762fc906-0f3c-4d07-a3dc-6e9b4b74109b">Databricks Lakehouse Fundamentals - Academy Accreditation</a> - Databricks Academy, May 2024</li>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YLB2W2QZDA5X">Mathematics for Machine Learning and Data Science Specialization</a> - DeepLearning.AI, August 2023</li>
   <li><a href="https://www.codecademy.com/profiles/rparra8673809658/certificates/5cafb2d937090210d7df3652">Analyze Data with SQL</a> - Codeacademy, Jan 2023</li>
   <li><a href="https://www.codecademy.com/profiles/rparra8673809658/certificates/5cafb2d937090210d7df3652">Analyze Business Metrics with SQL</a> - Codeacademy, Dec 2022</li>
