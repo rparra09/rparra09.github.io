@@ -8,7 +8,9 @@ image:
 <h1>Online Learning</h1>
 <ul>
 
-  <li><a href="https://www.manning.com/books/grokking-machine-learning">Grokking Machine Learning By Luis G. Serrano</a> - ©2021 Manning Publications Co., In Progress</li>
+  <li><a href="https://www.coursera.org/professional-certificates/data-engineering">DeepLearning.AI Data Engineering Professional Certificate</a> - DeepLearning.AI, In Progress Sept 2024</li>
+  
+  <li><a href="https://www.manning.com/books/grokking-machine-learning">Grokking Machine Learning By Luis G. Serrano</a> - ©2021 Manning Publications Co., May 2024</li>
   
   <li><a href="https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/">Building Generative AI Applications with Gradio</a> - DeepLearning.AI, Nov 2023</li>
   
