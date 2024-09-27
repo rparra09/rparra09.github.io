@@ -5,12 +5,14 @@ permalink: /Coursework/
 image: 
 ---
 
-<h1>Online Learning</h1>
+<h1>Online Courses</h1>
 <ul>
 
-  <li><a href="https://www.coursera.org/professional-certificates/data-engineering">DeepLearning.AI Data Engineering Professional Certificate</a> - DeepLearning.AI, In Progress Sept 2024</li>
-  
-  <li><a href="https://www.manning.com/books/grokking-machine-learning">Grokking Machine Learning By Luis G. Serrano</a> - ©2021 Manning Publications Co., May 2024</li>
+  <li><a href="https://www.coursera.org/professional-certificates/data-engineering">Data Engineering Professional Certificate</a> - DeepLearning.AI, <b>In Progress</b></li>
+    <ul>
+      <li><a href="https://www.coursera.org/account/accomplishments/verify/KFAPU3U6OYGX">Introduction to Data Engineering
+</a> - DeepLearning.AI, Sept 2024</li>
+    </ul>
   
   <li><a href="https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/">Building Generative AI Applications with Gradio</a> - DeepLearning.AI, Nov 2023</li>
   
@@ -27,6 +29,12 @@ image:
     
   <li><a href="https://www.codecademy.com/profiles/rparra8673809658/certificates/5cafb2d937090210d7df3652">Analyze Data with SQL</a> - Codeacademy, Jan 2023</li>
   <li><a href="https://www.codecademy.com/profiles/rparra8673809658/certificates/5cafb2d937090210d7df3652">Analyze Business Metrics with SQL</a> - Codeacademy, Dec 2022</li>
+</ul>
+
+<h1>Data Science Textbooks</h1>
+<ul>
+  <li><a href="https://doi.org/10.1007/978-3-031-39477-5">Information-Driven Machine Learning: Data Science as an Engineering Discipline By Gerald Friedland</a> - ©2023 Springer Cham, In Progress</li>
+  <li><a href="https://www.manning.com/books/grokking-machine-learning">Grokking Machine Learning By Luis G. Serrano</a> - ©2021 Manning Publications Co., May 2024</li>
 </ul>
 
 <h1>Master's</h1>
