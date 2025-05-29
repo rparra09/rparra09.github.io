@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 
+image: grad_2022.jpg
 ---
 
 <p>I am a 2022 graduate of an M.S. Information Technology degree in Data Science. I am a self-motivated data professional with domain knowledge in diverse technical industries, strong programming skills, and Machine Learning technologies. On the homepage, scroll down to find some of my <a href="https://rparra09.github.io/#anchor-name"> published data projects</a>.</p>
