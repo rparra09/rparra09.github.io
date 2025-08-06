@@ -26,7 +26,7 @@ image: grad_2022.jpg
 <hr />
 
   <li><a 
-href="https://www.coursera.org/account/accomplishments/verify/KFAPU3U6OYGX">Introduction to Data Engineering</a> - DeepLearning.AI, <b>Sep 2024</li>
+href="https://www.coursera.org/account/accomplishments/verify/KFAPU3U6OYGX">Introduction to Data Engineering</a> - DeepLearning.AI, Sep 2024</li>
   <li><a 
 href="https://codeinplace.stanford.edu/cip4/certificate/k8k0kn">Stanford Code in Place - CS106A Python Programming</a> - Stanford University, June 2024</li>
   <li><a 
