@@ -11,7 +11,7 @@ image: grad_2022.jpg
 <hr />
 
 <p><b>Work Experience</b></p>
-<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data & Systems Manager at <a href="https://www.gilead.com">Gilead Sciences, Inc.</a></p>
+<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Manager at <a href="https://www.gilead.com">Gilead Sciences, Inc.</a></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analyst at investment management firm <a href="https://www.seia.com/">SEIA, LLC</a></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Jr. Financial Cost Analyst at <a href="https://www.collinsaerospace.com/who-we-are/about-us#CollinsAerospace">Collins Aerospace (RTX) </a>(formerly UTC Aerospace Systems)</p>
 
