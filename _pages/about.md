@@ -12,7 +12,6 @@ image: grad_2022.jpg
 
 <p><b>Work Experience</b></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data & Systems Manager at <a href="https://www.gilead.com">Gilead Sciences, Inc.</a></p>
-<p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analytics Analyst at <a href="https://www.linkedin.com/company/cushman-&amp;-wakefield/">LinkedIn, Corp. via Cushman& Wakefield</a></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Data Analyst at investment management firm <a href="https://www.seia.com/">SEIA, LLC</a></p>
 <p>&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Jr. Financial Cost Analyst at <a href="https://www.collinsaerospace.com/who-we-are/about-us#CollinsAerospace">Collins Aerospace (RTX) </a>(formerly UTC Aerospace Systems)</p>
 
@@ -27,7 +26,7 @@ image: grad_2022.jpg
 <hr />
 
   <li><a 
-href="https://www.coursera.org/professional-certificates/data-engineering">Data Engineering Professional Certificate</a> - DeepLearning.AI, <b>In Progress</b></li>
+href="https://www.coursera.org/account/accomplishments/verify/KFAPU3U6OYGX">Introduction to Data Engineering</a> - DeepLearning.AI, <b>Sep 2024</li>
   <li><a 
 href="https://codeinplace.stanford.edu/cip4/certificate/k8k0kn">Stanford Code in Place - CS106A Python Programming</a> - Stanford University, June 2024</li>
   <li><a 
